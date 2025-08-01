@@ -1,2 +1,5 @@
 .idea/*
 !.idea/icon.png
+
+# Claude settings
+.claude/settings.local.json
